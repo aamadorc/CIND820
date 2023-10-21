@@ -1,11 +1,7 @@
 
 # Background
 
-The pandemic of the COVID-19 extended from China across the world. It not only shutdown the world as we knew it but also challenged the scientific community to find a vaccine to control the virus. In a record time, laboratories around the world rushed to find a solution to control the virus and save lives. In this study, I aim to predict the efficiency of COVID-19 vaccinates around the world.
-
-# Theme
-
-I will use Data Classification and Clustering to analyze the efficiency of COVID-19 vaccines over the population infected and deaths reported.
+The novel Coronavirus disease (COVID-10) was first reported in December, 2019 in Wuhan, Hubei Province, China. It created a calamitous situation throughout the world as cumulative incidents of COVID-19 were rapidly increasing day by day. In the absence of any medications, the only solution was to slow down the spread by exercising “social distancing” (hard lock-downs, restrictions on people mobility, limitations of the number of people in public places and the usage of protection gear (masks or gloves), among others) to block the chain of the spread of the virus. Here it is where Machine Learning models helped to forest where and when the disease is likely to spread, and notify those regions, governance and entities on their decision making.
 
 # Datasets
 
