@@ -24,3 +24,20 @@ These are the following information included in the dataset:
 
 The dataset is available to the Kaggle community:
 https://www.kaggle.com/datasets/caesarmario/our-world-in-data-covid19-dataset
+
+# Reproducibility
+
+## Python Environment
+
+`requirements.txt` is included in this repository to set up a Python virtual
+environment with the version of all required packages used.
+
+For example:
+```bash
+python -m venv .venv
+.venv\Scripts\activate.bat
+pip install -r requirements.txt
+```
+
+Once completed, load the notebook and change the Jupyter Kernel to `python`
+in the `.venv\Scripts` directory.
