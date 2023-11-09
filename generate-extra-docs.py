@@ -5,7 +5,7 @@ OUTPUT_DIR = "./docs"
 
 print("# Chronological File Changes\n")
 
-files_report = ["CIND820_EDA_subset.html", "CIND820_EDA.html", "README.md"]
+files_report = ["CIND820_EDA_subset.html", "CIND820_EDA.html", "README.md", "CIND820_EDA_DataProfiling.html"]
 command = [
     "git",
     "log",

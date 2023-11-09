@@ -73,6 +73,8 @@ The resulting GitHub Page is located at [.github/workflows/gh-pages.yml](.github
 | [.gitignore](.gitignore) | Files and file patterns that I want git to ignore. |
 | [CIND820\_EDA.html](CIND820\_EDA.html) | HTML export of the main Jupyter notebook. In the history of this file, the first commit includes the data profiling of the complete dataset. |
 | [CIND820\_EDA.ipynb](CIND820\_EDA.ipynb) | Main Jupyter notebook with the code. |
+| [CIND820\_EDA\_DataProfiling.html](CIND820\_EDA\_DataProfiling.html) | HTML export of Jupyter notebook with code of the Pandas data profiling of of the whole dataset. |
+| [CIND820\_EDA\_DataProfiling.ipynb](CIND820\_EDA\_DataProfiling.ipynb) | Jupyter notebook with code of the Pandas data profiling of of the whole dataset.|
 | [CIND820\_EDA\_subset.html](CIND820\_EDA\_subset.html) | HTML export of Jupyter notebook with code of the data profiling of a subset of the dataset. |
 | [CIND820\_EDA\_subset.ipynb](CIND820\_EDA\_subset.ipynb) | Jupyter notebook with code of the data profiling of a subset of the dataset.|
 | [CND820\_LiteratureReview\_AngelaAmador.docx](CND820\_LiteratureReview\_AngelaAmador.docx) | Literature Review document. |

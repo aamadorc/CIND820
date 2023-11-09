@@ -1,3 +1,4 @@
 archive.zip filter=lfs diff=lfs merge=lfs -text
 CIND820_EDA.html filter=lfs diff=lfs merge=lfs -text
 CIND820_EDA_subset.html filter=lfs diff=lfs merge=lfs -text
+CIND820_EDA_DataProfiling.html filter=lfs diff=lfs merge=lfs -text
